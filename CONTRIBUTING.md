@@ -21,5 +21,6 @@ Don't be shy! All my repos are open to suggestions and contributions.
 5. In case of doubt, search for patterns in the way the code is written, and try to replicate those patterns, for consistency.
 
 # Etc
-Most of my repos use [Semantic Versioning](https://semver.org)
+Most of my repos use [Semantic Versioning](https://semver.org).
+
 If you don't understand something, make sure to read source-code comments and documentation files (like this one)
