@@ -4,7 +4,7 @@ Don't be shy! All my repos are open to suggestions and contributions.
 # Opening Issues
 1. Please search for duplicates. I don't like redundancy.
 2. Issues can be used to ask support questions, and feature requests, not just bugs.
-3. Use **Discussions** instead of Issues when appropriate. Think of Discussions as *subreddits*, they're good for communicating with people in general.
+3. Use [**Discussions**](https://resources.github.com/devops/process/planning/discussions) instead of Issues when appropriate. Think of Discussions as *subreddits*.
 
 # Opening Pull Requests
 - Note: "PR" may also mean "Public Repo".
