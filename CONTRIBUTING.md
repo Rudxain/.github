@@ -15,8 +15,8 @@ Don't be shy! All my repos are open to suggestions and contributions.
 
 ## Style & Formatting of code
 1. **ALWAYS USE TABS** FOR INDENTATION. [This article explains better than me](https://dev.to/alexandersandberg/why-we-should-default-to-tabs-instead-of-spaces-for-an-accessible-first-environment-101f).
-2. Use single quotes (') because they look cleaner. Use double quotes (") if compression ratio is a concern (like HTML files served over HTTP with auto-GZip enabled). This rule doesn't apply to Rust.
-3. Manual formatting is preferred, because I personally think that [_programming is an art_](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), and it's better if it has a "human touch". However, occasional use of formatters like [`rustfmt`](https://github.com/rust-lang/rustfmt), [StandardJS](https://standardjs.com), or [Python Black](https://pypi.org/project/black), are allowed.
+2. Use single quotes (') because they look cleaner. Use double quotes (") if compression ratio is a concern (like HTML files served over HTTP with auto-GZip enabled). This rule doesn't apply to langs where (') has a different meaning than ("). like shell langs and Rust.
+3. Manual formatting is preferred, because I personally think that [_programming is an art_](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), and it's better if it has a "human touch". However, occasional use of formatters like [`rustfmt`](https://github.com/rust-lang/rustfmt), [StandardJS](https://standardjs.com), or [Python Black](https://pypi.org/project/black), is allowed.
 4. Reduce semicolons (;) to the bare minimum. Unless it helps with clarity and disambiguation.
 5. In case of doubt, search for patterns in the way the code is written, and try to replicate those patterns, for consistency.
 
