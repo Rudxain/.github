@@ -23,4 +23,7 @@ Don't be shy! All my repos are open to suggestions and contributions.
 # Etc
 Most of my repos use [Semantic Versioning](https://semver.org).
 
+I'm not supporting Apple's non-standard HTML icons, they must adhere to web standards (unless they request a change and it gets accepted).
+I'm not supporting HTML Twitter-Cards, it's redundant, I already have enough with Open-Graph madness.
+
 If you don't understand something, make sure to read source-code comments and documentation files (like this one)
