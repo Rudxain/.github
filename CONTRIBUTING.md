@@ -1,4 +1,4 @@
-# Intro
+# Contribution Guidelines
 Don't be shy! All my repos are open to contributions and suggestions (even style/format requests)
 
 ## Issues & Pull Requests
