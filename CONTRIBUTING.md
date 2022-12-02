@@ -2,7 +2,7 @@
 Don't be shy! All my repos are open to contributions and suggestions (even style/format requests)
 
 ## Issues & Pull Requests
-- Avoid opening duplicate issues and/or PRs, reuse existing ones if those are related
+- Avoid opening duplicates, reuse existing ones if those are related
 - Any PR diff-size is accepted, but small PRs are preferred because they're easier/faster to review. Big PRs are *dreams and nightmares* **simultaneously**
 
 ## Style & Formatting
