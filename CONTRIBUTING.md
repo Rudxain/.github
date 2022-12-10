@@ -8,7 +8,7 @@ Don't be shy! All my repos are open to contributions and suggestions (even style
 ## Style & Formatting
 - [One of the reasons why I prefer tabs over spaces](https://dev.to/alexandersandberg/why-we-should-default-to-tabs-instead-of-spaces-for-an-accessible-first-environment-101f)
 - Use -1 (relative, clamped to 0) level of indent in JSON. This is to reduce redundancy
-- If you type a subjective comment, surround it within quotes, and include your name (any: display-name, username, user ID, etc...). Example: `# "I couldn't find a better alternative" @ghost`. This is required to avoid confusion (for future readers) caused by *unintentional impersonation*. This way, everyone knows who said what, without reading the git-blame. Objective comments (like `# this X implementation is faster than Y`) don't need usernames
+- If you type a subjective comment, surround it within quotes, and include your name (any: display-name, username, user ID, etc...). Example: `# "I couldn't find a better alternative" @ghost`. This is to avoid confusion (for future readers) caused by *unintentional impersonation*. This way, everyone knows who said what, without reading the git-blame. Objective comments (like `# this X implementation is faster than Y`) don't need usernames
 - In case of doubt, search for patterns in the way the code is written, and please try to replicate those patterns, for consistency
 
 ## etc
