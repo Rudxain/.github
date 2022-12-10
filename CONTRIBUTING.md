@@ -12,5 +12,5 @@ Don't be shy! All my repos are open to contributions and suggestions (even style
 - In case of doubt, search for patterns in the way the code is written, and please try to replicate those patterns, for consistency
 
 ## etc
-- I'm not supporting Apple's non-standard HTML icons, they must adhere to web standards (unless they request a change and it gets accepted)
-- I'm not supporting HTML Twitter-Cards, it's redundant, I already have enough with Open-Graph madness
+- I'm not supporting Apple's non-standard HTML icons, they must adhere to web-stds
+- I'm not supporting HTML Twitter-Cards. Open-Graph already solves this
