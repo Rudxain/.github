@@ -47,5 +47,7 @@ This is to avoid confusion (for future readers) caused by *unintentional imperso
 
 ## etc
 
+- I'm slowly switching to Rust and Python, so I'm manually transpiling from JS.
+I would appreciate if you helped me convert my repos :)
 - I'm not supporting Apple's non-standard HTML icons, they must adhere to web-stds
 - I'm not supporting HTML Twitter-Cards. Open-Graph already solves this
