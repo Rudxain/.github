@@ -22,13 +22,13 @@ Don't be shy! All my repos are open to contributions and suggestions (even style
 - Use minimal asterisks in JSDoc. Example:
 ```js
 /**
- * ❌no
+ * ❌
 */
 /**
-✅ok
+✅
 */
 ```
-- If you type a subjective comment, surround it within quotes, and include your name (any: display-name, username, user ID, etc...). Example:
+- If you type a subjective comment, surround it within quotes, and include your name (any: display-name, username, etc...). Example:
 ```py
 # "I couldn't find a better alternative" @ghost
 ```
@@ -36,10 +36,10 @@ This is to avoid confusion (for future readers) caused by *unintentional imperso
 - If a comment needs 3 or more lines, it must be a block-type not line-type. This is to reduce redundant "//". This rule doesn't apply to Rust nor Go, because "idiomatic"
 - Use spaced comments for non-code. Examples:
 ```py
-# ok
-#no
-#0 + 0 # ok
-# 0 + 0 #no
+# ✅
+#❌
+#0 + 0 # ✅
+# 0 + 0 #❌
 ```
 - In case of doubt, search for patterns in the way the code is written, and please try to replicate those patterns, for consistency
 
